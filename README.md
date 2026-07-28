@@ -1,6 +1,6 @@
 # Telecom Campaign Analytics
 
-Projeto de portfólio voltado à aplicação de Marketing Analytics, CRM e Customer Intelligence no segmento de telecomunicações.
+Projeto de portfólio voltado à aplicação de Marketing Analytics, CRM e Customer Intelligence no segmento de telecomunicações. 
 
 ## Objetivo
 
