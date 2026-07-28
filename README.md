@@ -58,3 +58,26 @@ Em desenvolvimento.
 ## Autor
 
 Adriano Ramos
+
+
+
+## Primeira audiência — Reativação de clientes pré-pagos
+
+A primeira campanha do projeto tem como objetivo identificar clientes pré-pagos sem recarga há mais de 30 dias.
+
+### Regras iniciais
+
+- cliente com plano pré-pago;
+- última recarga realizada há mais de 30 dias, ou ausência de recarga;
+- consentimento de marketing ativo.
+
+### Resultado da segmentação
+
+| Etapa | Clientes |
+|---|---:|
+| Audiência comportamental | 815 |
+| Audiência com consentimento | 671 |
+| Excluídos sem consentimento | 144 |
+| Percentual acionável | 82,33% |
+
+A aplicação da regra de consentimento reduziu a audiência em 17,67%, mantendo 671 clientes aptos para a próxima etapa da campanha.
