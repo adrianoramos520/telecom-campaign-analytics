@@ -128,3 +128,35 @@ O grupo de tratamento receberá a campanha de reativação. O grupo de controle 
 | **Total** | **599** | **100,00%** |
 
 A divisão foi realizada separadamente dentro de cada canal, evitando que algum canal ficasse sub-representado no grupo de controle.
+
+
+### Validação do equilíbrio entre os grupos
+
+Antes da campanha, os grupos de tratamento e controle foram comparados para verificar se possuíam características semelhantes.
+
+| Métrica | Controle | Tratamento |
+|---|---:|---:|
+| Clientes | 62 | 537 |
+| Clientes sem histórico de recarga | 5 | 52 |
+| Média de dias sem recarga | 78,60 | 77,85 |
+| Mediana de dias sem recarga | 66 | 64 |
+| Mínimo de dias sem recarga | 31 | 31 |
+| Máximo de dias sem recarga | 199 | 202 |
+
+A diferença da média de dias sem recarga entre os grupos foi de apenas 0,75 dia. As medianas também ficaram próximas, com diferença de 2 dias.
+
+Os resultados indicam que os grupos possuem perfis semelhantes em relação ao tempo de inatividade, reduzindo o risco de viés na medição do impacto da campanha.
+
+
+#### Distribuição por plano
+
+| Grupo | Plano | Clientes | Participação no grupo |
+|---|---|---:|---:|
+| Controle | Pré 15GB | 38 | 61,29% |
+| Controle | Pré 25GB | 24 | 38,71% |
+| Tratamento | Pré 15GB | 297 | 55,31% |
+| Tratamento | Pré 25GB | 240 | 44,69% |
+
+Os dois grupos possuem clientes dos planos Pré 15GB e Pré 25GB.
+
+A diferença de participação do plano Pré 15GB entre controle e tratamento foi de 5,98 pontos percentuais. Embora os grupos não sejam idênticos, a distribuição foi considerada suficientemente próxima para esta simulação.
