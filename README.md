@@ -94,3 +94,22 @@ Após a aplicação do consentimento, foi adicionada uma regra para excluir clie
 | Audiência final | 599 |
 
 A regra de pressão de contato reduziu a audiência em 10,73%, mantendo 89,27% dos clientes aptos para o disparo.
+
+
+### Distribuição por canal preferido
+
+A audiência final foi distribuída de acordo com o canal preferido informado por cada cliente.
+
+| Canal | Clientes | Participação |
+|---|---:|---:|
+| WhatsApp | 180 | 30,05% |
+| SMS | 144 | 24,04% |
+| Push | 123 | 20,53% |
+| E-mail | 77 | 12,85% |
+| Outbound | 47 | 7,85% |
+| URA | 28 | 4,67% |
+| **Total** | **599** | **100,00%** |
+
+Os canais WhatsApp, SMS, Push e e-mail concentram 524 clientes, correspondendo a 87,47% da audiência final. Isso indica uma oportunidade de priorizar canais digitais e automatizados, reduzindo o custo operacional da campanha.
+
+Os canais Outbound e URA representam 75 clientes, ou 12,52% da audiência, e podem ser direcionados para segmentos de maior valor ou clientes com maior probabilidade de conversão.
