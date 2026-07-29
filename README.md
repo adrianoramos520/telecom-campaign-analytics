@@ -113,3 +113,18 @@ A audiência final foi distribuída de acordo com o canal preferido informado po
 Os canais WhatsApp, SMS, Push e e-mail concentram 524 clientes, correspondendo a 87,47% da audiência final. Isso indica uma oportunidade de priorizar canais digitais e automatizados, reduzindo o custo operacional da campanha.
 
 Os canais Outbound e URA representam 75 clientes, ou 12,52% da audiência, e podem ser direcionados para segmentos de maior valor ou clientes com maior probabilidade de conversão.
+
+
+### Grupos de tratamento e controle
+
+A audiência final foi dividida em grupos de tratamento e controle, preservando a distribuição por canal preferido.
+
+O grupo de tratamento receberá a campanha de reativação. O grupo de controle não receberá a comunicação e será utilizado como referência para medir o efeito incremental da campanha.
+
+| Grupo | Clientes | Participação |
+|---|---:|---:|
+| Tratamento | 537 | 89,65% |
+| Controle | 62 | 10,35% |
+| **Total** | **599** | **100,00%** |
+
+A divisão foi realizada separadamente dentro de cada canal, evitando que algum canal ficasse sub-representado no grupo de controle.
