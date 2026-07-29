@@ -81,3 +81,16 @@ A primeira campanha do projeto tem como objetivo identificar clientes pré-pagos
 | Percentual acionável | 82,33% |
 
 A aplicação da regra de consentimento reduziu a audiência em 17,67%, mantendo 671 clientes aptos para a próxima etapa da campanha.
+
+
+### Controle de pressão de contato
+
+Após a aplicação do consentimento, foi adicionada uma regra para excluir clientes que receberam alguma campanha nos sete dias anteriores.
+
+| Etapa | Clientes |
+|---|---:|
+| Audiência com consentimento | 671 |
+| Excluídos por campanha recente | 72 |
+| Audiência final | 599 |
+
+A regra de pressão de contato reduziu a audiência em 10,73%, mantendo 89,27% dos clientes aptos para o disparo.
